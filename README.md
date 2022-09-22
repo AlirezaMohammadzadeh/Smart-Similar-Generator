@@ -1,4 +1,4 @@
-# Generating-suitable-synonyms-similars-for-keywords
+# Generating-suitable-synonyms-similars-for-words
 
 It happends for us so many times that we have searched a wrong word but we got to the result
 that we could reached if we searched correct form of the word
