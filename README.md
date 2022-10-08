@@ -13,8 +13,7 @@ from an excel file(Input_words.xlsx) and after generating the synonyms and simil
 I used gensim  python library for generating synonyms and similars for our English words.  
 This library uses Word2Vec technique for natural language processing.  
 This technique helps us finding synonyms and similars for words.   
-You can read more about this techniques in:[Word2Vec](https://en.wikipedia.org/wiki/Word2vec/)   
-en.wikipedia.org/wiki/Word2vec  
+You can read more about this techniques in:[Word2Vec](https://en.wikipedia.org/wiki/Word2vec)     
 You can get some information about this nlp librarary in:[Gensim](https://en.wikipedia.org/wiki/Gensim)    
 
 I used api.text-mining.ir for generating synonyms and similars for our Persian words.  
