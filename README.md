@@ -30,6 +30,29 @@ The Smart Similar Generator uses text-mining and natural language processing (NL
 - **spaCy**: A library for tokenizing product names, helping to break text into manageable units. Learn more about [spaCy](https://en.wikipedia.org/wiki/SpaCy).
 
 
+## Installation
+
+To set up the Smart Similar Generator, follow these steps:
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/yourusername/smart-similar-generator.git
+   cd smart-similar-generator
+
+2.  **Create a Virtual Environment (optional but recommended):**:
+    ```bash
+    python -m venv venv
+    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+
+3.  **Install Dependencies:**:
+    ```bash
+    pip install -r requirements.txt
+
+4.  **Download spaCy Model:**:
+    ```bash
+    python -m spacy download en_core_web_sm
+    
+
 ## Usage
 
 1. **Prepare Your Data**: Create an Excel file named `Input_words.xlsx` with a list of words or product names.
