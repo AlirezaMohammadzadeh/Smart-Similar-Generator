@@ -29,13 +29,6 @@ The Smart Similar Generator uses text-mining and natural language processing (NL
 
 - **spaCy**: A library for tokenizing product names, helping to break text into manageable units. Learn more about [spaCy](https://en.wikipedia.org/wiki/SpaCy).
 
-## Installation
-
-To set up the Smart Similar Generator, install the required Python libraries using pip:
-
-```bash
-pip install gensim text-mining.ir python-Levenshtein spaCy
-
 
 ## Usage
 
