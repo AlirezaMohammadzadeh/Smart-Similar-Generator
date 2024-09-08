@@ -9,7 +9,6 @@ The Smart Similar Generator uses text-mining and natural language processing (NL
 ## Features
 
 - **Generate Synonyms and Similar Words**: Automatically find synonyms and similar terms for both English and Persian words.
-- **Excel Integration**: Read input words from an Excel file (`Input_words.xlsx`) and write the generated synonyms and similar terms to a new Excel file (`synonyms_similars.xlsx`).
 
 ## How It Works
 
